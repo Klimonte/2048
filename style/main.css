@@ -497,7 +497,7 @@ hr {
         font-size: 10px; } }
 
 @-webkit-keyframes appear {
-  0% {
+  0% {tile.tile
     opacity: 0;
     -webkit-transform: scale(0);
     -moz-transform: scale(0);
